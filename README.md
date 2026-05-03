@@ -21,6 +21,7 @@ A comprehensive admin dashboard for College management built with Remix, TypeScr
 - **Database Integration** with Supabase PostgreSQL
 
 ## Development
+--- 
 
 Run the dev server:
 
