@@ -1,7 +1,7 @@
 # CLG Admin Management System
 
 A comprehensive admin dashboard for College management built with Remix, TypeScript, and Supabase.
-
+---
 ## Features
 
 - **Admin Dashboard** 
